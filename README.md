@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sachin 👋
 
-<!--
-**sachinksaji33-star/sachinksaji33-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst
+📊 Skilled in Excel, Power BI, SQL,Tableau
+📍 Based in India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Excel (Pivot Tables, Dashboards, Data Cleaning)
+* Power BI (Visualizations, DAX Basics)
+* SQL (Basic Queries)
+* Python (OOP,Data structures,File handling)
+* Tableau(LOD Expressions, Parameters)
+  
+
+---
+
+## 📊 Projects
+
+* Vrinda Store Sales Analysis (Power BI Dashboard)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Power BI
+* Agile
+* Web Scrapping
+
+---
+
+## 🎯 Goal
+
+To become a Data Analyst and work on real-world business problems using data.
+
