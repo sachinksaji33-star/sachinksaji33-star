@@ -19,7 +19,7 @@
 
 ## 📊 Projects
 
-* Vrinda Store Sales Analysis (Power BI Dashboard)
+* Sales Insights & Business Performance Dashboard(Excel)
 
 ---
 
