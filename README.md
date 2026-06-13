@@ -1,37 +1,69 @@
-# Hi, I'm Sachin 👋
+# Hi, I'm Sachin K Saji 👋
 
-🎯 Aspiring Data Analyst
-📊 Skilled in Excel, Power BI, SQL,Tableau
-📍 Based in India
+## Business Analyst | Data Analyst
 
----
-
-## 🚀 Skills
-
-* Excel (Pivot Tables, Dashboards, Data Cleaning)
-* Power BI (Visualizations, DAX Basics)
-* SQL (Basic Queries)
-* Python (OOP,Data structures,File handling)
-* Tableau(LOD Expressions, Parameters)
-  
+BBA graduate with hands-on experience in Business Intelligence, Data Analytics, and Dashboard Development. Passionate about transforming business data into actionable insights through data visualization and analytics.
 
 ---
 
-## 📊 Projects
+## Technical Skills
 
-* Sales Insights & Business Performance Dashboard(Excel)
+* Power BI
+* SQL
+* Excel
+* Python
+* Tableau
+* DAX
+* Power Query
+* Data Visualization
+* Business Intelligence
+* Data Analysis
 
 ---
 
-## 📚 Currently Learning
+## Featured Projects
 
-* Advanced Power BI
-* Agile
-* Web Scrapping
+### 📊 Quick Commerce Operations Intelligence Dashboard
+
+Developed an interactive Power BI dashboard analyzing:
+
+* Revenue Performance
+* Customer Analytics
+* Delivery Performance
+* Product & Inventory Analytics
+* Business Intelligence Insights
+
+Tools Used: Power BI, DAX, Power Query, Data Modeling
+
+### 📈 Sales Insights & Business Performance Dashboard
+
+Built an Excel dashboard using:
+
+* Pivot Tables
+* KPI Reporting
+* Sales Analysis
+* Interactive Visualizations
+
+Tools Used: Excel, Pivot Tables, Pivot Charts, Slicers, Data Visualization
+
+
+## Professional Highlights
+
+* Business Analyst Intern at Techolas Technologies
+* BBA Graduate – Bengaluru City University
+* Experience in Dashboard Development and Business Reporting
+* Strong interest in Data Analytics and Business Intelligence
 
 ---
 
-## 🎯 Goal
+## Career Objective
 
-To become a Data Analyst and work on real-world business problems using data.
+Seeking Business Analyst / Data Analyst opportunities where I can apply analytical thinking, data visualization, and business intelligence skills to solve real-world business problems.
+
+---
+
+📍 Kerala, India
+
+📧 [sachinksaji33@gmail.com](mailto:sachinksaji33@gmail.com)
+
 
